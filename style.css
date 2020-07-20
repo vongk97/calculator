@@ -1,0 +1,7 @@
+#container {
+  background=color: gray;
+  height: 400px;
+  width: 300px;
+  margin: auto;
+  border: 3px solid black;
+}
