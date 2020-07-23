@@ -1,7 +1,49 @@
+* {
+  text-align: center;
+}
+#container {
+  text-align: center;
+  display: table;
+  background-color: lightblue;
+  border: 3px solid black;
+}
+#buttons {
+  font-size: 25%;
+  width: 100%;
+  text-align: center;
+}
+button {
+  width: 24%;
+}
+#display, #history {
+  text-align: center;
+  width: auto;
+}
+/*
+* {
+    box-sizing: border-box;
+}
 #container {
   background=color: gray;
   height: 400px;
   width: 300px;
   margin: auto;
   border: 3px solid black;
+  display: table;
+  table-layout: fixed;
 }
+#heading {
+  text-align: center;
+}
+#history, #display {
+  text-align: center;
+}
+input {
+  text-align: right;
+}
+#row-one {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+*/
